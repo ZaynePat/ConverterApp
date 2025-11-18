@@ -5,9 +5,9 @@ This app will convert your chosen PDF file into an image and images into a PDF f
 ## Requirements
 
 - [Python]
-[Python](#https://www.python.org/downloads).
+[Python](https://www.python.org/downloads).
 - [Poppler]
-[Poppler](#https://github.com/oschwartz10612/poppler-windows/releases/tag/v25.11.0-0).
+[Poppler](https://github.com/oschwartz10612/poppler-windows/releases/tag/v25.11.0-0).
 ## how to run
 
 Install Python and Poppler first, then run this code in your application
@@ -16,7 +16,7 @@ Install Python and Poppler first, then run this code in your application
 ```
 python converter.py
 ```
-##(Optional) install Code runner extension in VSCODE 
+##(Optional) install Code Runner extension in VS Code 
 
-This will make you life easier and you can just ignore the previous guide
+This will make your life easier, and you can just ignore the previous guide
 
