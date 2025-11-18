@@ -5,9 +5,9 @@ This app will convert your chosen PDF file into an image and images into a PDF f
 ## Requirements
 
 - [Python]
-download link [Python](#https://www.python.org/downloads).
+[Python](#https://www.python.org/downloads).
 - [Poppler]
-download link [Poppler](#https://github.com/oschwartz10612/poppler-windows/releases/tag/v25.11.0-0).
+[Poppler](#https://github.com/oschwartz10612/poppler-windows/releases/tag/v25.11.0-0).
 ## how to run
 
 Install Python and Poppler first, then run this code in your application
